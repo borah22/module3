@@ -73,3 +73,10 @@ body{
 text-decoration: none;
 text-underline-position: none;
 }
+
+#ise {
+	text-align: center;
+	color: green;
+	font-size: 1.8em;
+	background-color: white;
+}
